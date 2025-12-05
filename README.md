@@ -1,1 +1,1 @@
-Solutions to the advent of code problems
+Solutions to a few advent of code puzzles
